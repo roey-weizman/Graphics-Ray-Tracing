@@ -49,5 +49,5 @@ Files in question are parsed by the parser and drawn by the GPU.
 
 Aditional images are attached.
 
-![alt text](https://imgur.com/a/R6DUS)
+![alt text](https://ibb.co/bGH6ww)
 ![alt text](https://imgur.com/a/2UnH5)
