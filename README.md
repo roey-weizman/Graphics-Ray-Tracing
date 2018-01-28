@@ -44,5 +44,7 @@ actually a close intersection with the object the ray emanated from.
 In addition, changing the forth coordinate of the eye (camera) vector will reveal a reflection ray tracing with  recursion level 1.
 
 Different scenes can be found at rayTraserGLFW\res as text files.
+
 Files in question are parsed by the parser and drawn by the GPU.
+
 Aditional images are attached.
