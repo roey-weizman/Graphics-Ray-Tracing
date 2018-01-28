@@ -2,7 +2,7 @@
 
 Ray Tracing with OpenGL written with c++, project's solution is compiled with Visual Studio 2017.
 
-I implemenedt a ray casting/tracing engine. A ray tracer shoots
+I implemeneted a ray casting/tracing engine. A ray tracer shoots
 rays from the observer’s eye through a screen and into a scene of objects. It calculates the ray’s
 intersection with objects, finds the nearest intersection and calculates the color of the surface
 according to its material and lighting conditions.
