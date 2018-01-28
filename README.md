@@ -48,6 +48,6 @@ Different scenes can be found at rayTraserGLFW\res as text files.
 Files in question are parsed by the parser and drawn by the GPU.
 
 Aditional images are attached.
-
+![alt text](https://i.imgur.com/oko15Zh.png)
 ![alt text](https://i.imgur.com/Kp5E2BK.png)
-![alt text](https://imgur.com/a/2UnH5)
+![alt text](https://i.imgur.com/0TEY3jh.png)
